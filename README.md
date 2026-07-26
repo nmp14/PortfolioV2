@@ -5,6 +5,8 @@ and reliable cross-browser behavior.
 
 Remake of previous portfolio
 
+WIP setup, still super ugly :)
+
 ## Local development
 
 ```bash
