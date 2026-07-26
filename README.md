@@ -3,6 +3,8 @@
 A from-scratch React portfolio focused on strong typography, restrained motion,
 and reliable cross-browser behavior.
 
+Remake of previous portfolio
+
 ## Local development
 
 ```bash
